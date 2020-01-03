@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LivChat</string>
+
+<!--    start screen      -->
+    <string name="login_account">Login</string>
+    <string name="registration">Registration</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+
+
+    <!--    error EditText     -->
+    <string name="short_password">Short password</string>
+    <string name="passwords_dont_match">passwords don\'t match</string>
+    <string name="enter_email">Enter Email</string>
+</resources>

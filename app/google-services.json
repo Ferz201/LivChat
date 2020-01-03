@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728977856144",
+    "firebase_url": "https://livchat-85125.firebaseio.com",
+    "project_id": "livchat-85125",
+    "storage_bucket": "livchat-85125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728977856144:android:d681a2f55d67770e716a15",
+        "android_client_info": {
+          "package_name": "com.example.livchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728977856144-lives5u2d3uqga5unh2mp0hlsrlg1iel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.livchat",
+            "certificate_hash": "0974b5bf3657fd6e76254dab88164e823fdd5240"
+          }
+        },
+        {
+          "client_id": "728977856144-ls1v8qslhjhb8019qq8qkgb045rmohcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_g80k9xB_nl-sBqWCPsvMj1smsCHlNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728977856144-ls1v8qslhjhb8019qq8qkgb045rmohcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
