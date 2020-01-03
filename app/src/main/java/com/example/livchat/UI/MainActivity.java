@@ -11,6 +11,11 @@ import com.example.livchat.R;
 
 import java.util.Objects;
 
+/*
+    This programms it's repository github
+ */
+
+
 public class MainActivity extends AppCompatActivity {
 
     Context ctx;
